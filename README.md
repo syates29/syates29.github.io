@@ -7,5 +7,3 @@ If website is accessible, safe, and coherent, will purchase a new domain name.
 
 Initially building and exploring with HTML/CSS and then hoping to establish a second, independent branch with Jekyll.
 May transition between the two branches.
-
-Séan
