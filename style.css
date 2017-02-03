@@ -4,6 +4,10 @@ body {
   padding: 0;
 }
 
+* {
+  border-style: solid;
+}
+
 .header {
   background-image: url("http://i.imgur.com/JSl0qhX.jpg");
   background-position: center center;
