@@ -12,6 +12,14 @@ body {
   width: 100%;
 }
 
+#header-text {
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  top: 25%;
+  width: 60%;
+}
+
 p {
 font-family: "Georgia";
 font-size: 18px;
