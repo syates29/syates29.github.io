@@ -8,6 +8,25 @@ body {
   border-style: solid;
 }
 
+.navigation {
+  overflow-y: auto;
+  position: fixed;
+  left: 0;
+  top: 0;
+  text-align: center;
+  width: 100%;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
 .header {
   background-image: url("http://i.imgur.com/JSl0qhX.jpg");
   display: block;
