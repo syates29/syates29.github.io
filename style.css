@@ -35,8 +35,7 @@ li {
   display: block;
   background-position: center center;
   background-repeat: no-repeat;
-  height: 900px;
-  width: 100%;
+  background-size: cover;
   background-attachment: fixed;
 }
 
