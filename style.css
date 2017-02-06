@@ -37,6 +37,7 @@ li {
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-attachment: fixed;
+  height: 500px;
 }
 
 #header-text {
