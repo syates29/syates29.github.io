@@ -27,7 +27,7 @@ li {
   display: inline-block;
   font-size: 16px;
   text-transform: uppercase;
-  margin: 10px 10px;
+  margin: 10px 20px;
 }
 
 .header {
@@ -37,7 +37,7 @@ li {
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-attachment: fixed;
-  height: 500px;
+  height: 800px;
 }
 
 #header-text {
