@@ -19,6 +19,11 @@ body {
   z-index: 1;
 }
 
+li.overview {
+  display: inline-block;
+  font-size: 18px;
+}
+
 ul {
   padding: 0;
 }
