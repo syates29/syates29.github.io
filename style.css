@@ -19,11 +19,6 @@ body {
   z-index: 1;
 }
 
-li.overview {
-  display: inline-block;
-  font-size: 18px;
-}
-
 ul {
   padding: 0;
 }
@@ -34,6 +29,11 @@ li {
   text-transform: uppercase;
   padding: 5px;
   margin: 10px 20px;
+}
+
+li.overview {
+  display: inline-block;
+  font-size: 18px;
 }
 
 .header {
