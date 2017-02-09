@@ -8,6 +8,19 @@ body {
   padding: 0px;
 }
 
+
+.navbar-items {
+  display: inline-block;
+  font-size: 22px;
+  text-transform: uppercase;
+  margin: 10px 20px;
+  padding: 8px;
+}
+
+#navbar {
+  border-style: dotted;
+}
+
 .navigation {
   background-color: rgba(255, 255, 255, 0.6);
   left: 0px;
@@ -17,18 +30,7 @@ body {
   text-align: center;
   width: 100%;
   z-index: 1;
-}
-
-#navbar {
-  padding: 8px;
-}
-
-li {
-  display: inline-block;
-  font-size: 22px;
-  text-transform: uppercase;
-  padding: 5px;
-  margin: 10px 20px;
+  border-style: double;
 }
 
 .header {
@@ -56,11 +58,11 @@ li {
   width: auto;
 }
 
-#overview-text {
-  display: inline-block;
+h2.overview-content {
+  border-style: dotted;
 }
 
-.ovlist {
+.overview-content {
   display: inline-block;
   font-size: 18px;
 }
@@ -70,7 +72,7 @@ p {
   font-size: 18px;
 }
 
-h3 {
+h2 {
   text-decoration: underline;
 }
 
