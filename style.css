@@ -31,7 +31,7 @@ li {
   margin: 10px 20px;
 }
 
-li.overview-list {
+.ovlist {
   display: inline-block;
   font-size: 18px;
 }
