@@ -56,6 +56,10 @@ li {
   font-family: "Verdana";
 }
 
+#overview-text {
+  display: inline-block;
+}
+
 p {
 font-family: "Georgia";
 font-size: 18px;
