@@ -19,6 +19,8 @@ body {
 
 #navbar {
   padding: 10px;
+  left: 0px;
+  top: 0px;
 }
 
 li {
