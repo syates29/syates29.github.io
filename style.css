@@ -9,6 +9,9 @@ body {
 }
 
 .navigation {
+  background-color: rgba(255, 255, 255, 0.6);
+  left: 0px;
+  top: 0px;
   overflow-y: auto;
   position: fixed;
   text-align: center;
@@ -18,9 +21,6 @@ body {
 
 #navbar {
   padding: 10px;
-  background-color: rgba(255, 255, 255, 0.6);
-  left: 0px;
-  top: 0px;
 }
 
 li {
