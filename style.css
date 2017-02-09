@@ -31,7 +31,7 @@ li {
   margin: 10px 20px;
 }
 
-li.overview {
+.overview li {
   display: inline-block;
   font-size: 18px;
 }
