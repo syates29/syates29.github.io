@@ -59,6 +59,7 @@ body {
 
 h2.overview-content {
   border-style: dotted;
+  padding: 10px;
 }
 
 .overview-content {
