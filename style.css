@@ -33,7 +33,9 @@ body {
   padding: 8px;
 }
 
-
+ li a:hover {
+    background-color: #111;
+}
 
 .header {
   background-image: url("http://i.imgur.com/JSl0qhX.jpg");
