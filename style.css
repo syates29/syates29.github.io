@@ -33,8 +33,9 @@ body {
   padding: 8px;
 }
 
- li a:hover {
-    background-color: #111;
+li a:hover {
+  background-color: #111;
+  color: #FFF;
 }
 
 .header {
