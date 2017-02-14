@@ -56,7 +56,6 @@ body {
 }
 
 
-
 h2.overview-content {
   border-style: dotted;
   padding: 220px 300px;
@@ -67,6 +66,32 @@ h2.overview-content {
   width: auto;
   font-size: 18px;
 }
+
+
+h2.facilities-content {
+  border-style: dotted;
+  padding: 220px 300px;
+}
+
+.facilities-content {
+  display: inline-block;
+  width: auto;
+  font-size: 18px;
+}
+
+
+
+h2.activities-content {
+  border-style: dotted;
+  padding: 220px 300px;
+}
+
+.activities-content {
+  display: inline-block;
+  width: auto;
+  font-size: 18px;
+}
+
 
 
 
