@@ -35,7 +35,7 @@ body {
 
 li a:hover {
   background-color: #111;
-  color: #FFF;
+  color: rgba(255, 255, 255, 0.6);
 }
 
 .header {
